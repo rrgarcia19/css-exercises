@@ -1,0 +1,18 @@
+.subsection {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.header {
+    font-size: 24px;
+}
+
+#first-id {
+    color: blue;
+    font-size: 36px;
+}
+
+#second-id {
+    background-color: lightgreen;
+    font-weight: bold;
+}
